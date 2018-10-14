@@ -6,3 +6,5 @@ badge_maker('jessica')
 def batch_badge_creator
   array.each<< ";presenter"
  array=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+ end
+ batch_badge_creator

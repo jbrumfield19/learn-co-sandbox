@@ -7,4 +7,5 @@ def batch_badge_creator(name)
   ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]= name
  puts array<< "supercool"
  end
+end
   batch_badge_creator(name)

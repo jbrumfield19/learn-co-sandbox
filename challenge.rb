@@ -4,7 +4,7 @@ end
 badge_maker('jessica')
 
 def batch_badge_creator(presenter)
- presenter = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+ presenter == ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
  array.push"superstar"
  end
  return presenter

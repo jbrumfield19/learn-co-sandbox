@@ -8,4 +8,4 @@ def batch_badge_creator(name)
  array.each<< ";presenter"
  puts"Hello, my name is #{name}."
  end
- batch_badge_creator
+ batch_badge_creator(name)

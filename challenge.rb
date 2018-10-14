@@ -5,6 +5,7 @@ badge_maker('jessica')
 
 def batch_badge_creator(name)
   name=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  puts 
 
 end
   batch_badge_creator

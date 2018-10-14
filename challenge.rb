@@ -3,8 +3,8 @@ def badge_maker(name)
 end
 badge_maker('jessica')
 
-def batch_badge_creator(Array)
+def batch_badge_creator(name)
   ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
  puts array<< "supercool"
  end
-  batch_badge_creator(Array)
+  batch_badge_creator(name)

@@ -3,9 +3,8 @@ def badge_maker(name)
 end
 badge_maker('jessica')
 
-def batch_badge_creator(name)
- name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
- name<< ";presenter"
- puts"Hello, my name is #{name}."
+def batch_badge_creator(presenter)
+ presenter = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+ puts"Hello, my name is #{presenter}."
  end
- batch_badge_creator(name)
+ batch_badge_creator (presenter)

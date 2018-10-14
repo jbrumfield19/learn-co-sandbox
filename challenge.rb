@@ -4,7 +4,7 @@ end
 badge_maker('jessica')
 
 def batch_badge_creator(array)
-  array.each<< ";presenter"
  array=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+ array.each<< ";presenter"
  end
  batch_badge_creator

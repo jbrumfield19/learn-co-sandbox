@@ -10,4 +10,6 @@ end
   batch_badge_creator(name)
   
   def assign_room(name,number)
-    [1,2,3,4,5,]
+    [1,2,3,4,5,6,7]
+    ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+    

@@ -12,5 +12,5 @@ end
   def assign_room(name,number)
     number=[1,2,3,4,5,6,7]
     name=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-    
+    puts "Hello, #{name}! You'll be assigned to room #{number}!"
     

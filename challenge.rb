@@ -9,8 +9,8 @@ def batch_badge_creator(name)
 end
   batch_badge_creator(name)
   
-  def assign_room(name,number)
-    number=[1,2,3,4,5,6,7]
-    name=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  def assign_room(person,room)
+    room=[1,2,3,4,5,6,7]
+    person=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
     puts "Hello, #{name}! You'll be assigned to room #{number}!"
   end

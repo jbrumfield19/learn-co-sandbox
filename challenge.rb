@@ -4,4 +4,4 @@ end
 badge_maker('jessica')
 
 def assign_rooms(name,number)
-  array.each do ||
+  l

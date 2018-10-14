@@ -14,3 +14,4 @@ end
     person=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
     puts "Hello, #{person}! You'll be assigned to room #{room}!"
   end
+  

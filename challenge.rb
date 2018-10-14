@@ -16,4 +16,4 @@ def assign_room(person,room)
 end
   
  def printer_met
-   
+   puts 

@@ -4,7 +4,7 @@ end
 badge_maker('jessica')
 
 def batch_badge_creator(people)
-  people=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   puts "Hello, my name is #{people}."
 end
   batch_badge_creator(people)

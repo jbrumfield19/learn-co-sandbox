@@ -15,4 +15,5 @@ def assign_room(person,room)
   puts "Hello, #{person}! You'll be assigned to room #{room}!"
 end
   
-  
+ def printer_met
+   

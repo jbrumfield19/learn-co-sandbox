@@ -5,6 +5,6 @@ badge_maker('jessica')
 
 def batch_badge_creator(array)
  array = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
- puts array<<
+ puts array<< "supercool"
  end
- return batch_badge_creator(array)
+  batch_badge_creator(array)

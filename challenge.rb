@@ -3,7 +3,7 @@ def badge_maker(name)
 end
 badge_maker('jessica')
 
-def batch_badge_creator(name)
+def batch_badge_creator(people)
   people=["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   puts "Hello, my name is #{people}."
 end
